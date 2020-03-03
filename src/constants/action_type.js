@@ -1,0 +1,9 @@
+export const ADD_BOOK="ADD_BOOK";
+export const SEARCH_BOOKS="SEARCH_BOOKS";
+export const LIST_BOOKS="LIST_BOOKS";
+export const RESET="RESET";
+export const CHANGE_QTY="CHANGE_QTY";
+export const CHANGE_DESC="CHANGE_DESC"; 
+export const CHANGE_NAME="CHANGE_NAME";
+export const CHANGE_AUTHER="CHANGE_AUTHER";
+export const HANDLE_SUCCESS="HANDLE_SUCCESS";
